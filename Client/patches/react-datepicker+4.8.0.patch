@@ -1,0 +1,26 @@
+diff --git a/node_modules/react-datepicker/dist/react-datepicker.css b/node_modules/react-datepicker/dist/react-datepicker.css
+index baddab5..3ae827d 100644
+--- a/node_modules/react-datepicker/dist/react-datepicker.css
++++ b/node_modules/react-datepicker/dist/react-datepicker.css
+@@ -68,7 +68,7 @@
+   display: inline-block;
+   padding: 0;
+   border: 0;
+-  width: 100%;
++  /* width: 100%; */
+ }
+ 
+ .react-datepicker {
+diff --git a/node_modules/react-datepicker/src/stylesheets/datepicker.scss b/node_modules/react-datepicker/src/stylesheets/datepicker.scss
+index d35f285..bbf3936 100644
+--- a/node_modules/react-datepicker/src/stylesheets/datepicker.scss
++++ b/node_modules/react-datepicker/src/stylesheets/datepicker.scss
+@@ -5,7 +5,7 @@
+   display: inline-block;
+   padding: 0;
+   border: 0;
+-  width: 100%;
++  // width: 100%;
+ }
+ 
+ .react-datepicker {
