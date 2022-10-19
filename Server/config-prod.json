@@ -1,8 +1,8 @@
 {
   "mongodb":{
-    "connectionString" : "mongodb://admin:1q2w3e4r5t@project1tispace-shard-00-00.0txb6.mongodb.net:27017,project1tispace-shard-00-01.0txb6.mongodb.net:27017,project1tispace-shard-00-02.0txb6.mongodb.net:27017/Vibe_db?replicaSet=atlas-syduqc-shard-0&ssl=true&authSource=admin"
+    "connectionString" : ""
   },
   "jwt" : {
-      "secretKey" : "BoaGroup"
+      "secretKey" : ""
   }
 }
